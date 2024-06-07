@@ -1,12 +1,8 @@
-<h3 align="left">Eai, como vai?</h3>
-
-###
+<h1>Eai, como vai? <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 <p align="left">Meu nome é Márcio Sá e sou Engenheiro de Qualidade de Software.</p>
 
-###
-
-<h3 align="left">Sobre mim</h3>
+<h1 align="left">Sobre mim</h1>
 
 ###
 
@@ -14,7 +10,7 @@
 
 ###
 
-<h3 align="center">Meus Status</h3>
+<h1 align="center">Meus Status</h1>
 
 ###
 
@@ -26,7 +22,7 @@
 
 ###
 
-<h3 align="center">Ferramentas e Tecnologias</h3>
+<h1 align="center">Ferramentas e Tecnologias</h1>
 
 ###
 
@@ -49,7 +45,5 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/marciofsn/marciofsn/output/snake.svg" alt="Snake animation" />
 
 ###
