@@ -1,4 +1,4 @@
-<img src="https://github.com/talytam/talytam/assets/38868433/c1b56765-b607-4c2f-829d-970a4520afc5" height="350" width="350" align="right" alt="relatorio de bugs">
+<img src="https://github.com/talytam/talytam/assets/38868433/c1b56765-b607-4c2f-829d-970a4520afc5" height="300" width="300" align="right" alt="relatorio de bugs">
 <h1>Eai, como vai? <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 <p align="left">Meu nome é Márcio Sá e sou Engenheiro de Qualidade de Software.</p>
